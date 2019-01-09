@@ -4,11 +4,14 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Typeface-thesis.jpg" alt="Photo" hspace="25" width="15%" align="right"/> This webpage is for a person who is (desperately) trying to finish her Master's Degree and especially - to write a thesis.
+Ellu is studying language technology at the Helsinki University and proud of it. But as the time passes, so the skills are somewhat forgotten if not used enough...that's one of the challenge. And many more so please check this site out!
+
+The site also includes some tips for all of you in the same situation, good luck! :)
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[LinkedIn](https://www.linkedin.com), [Facebook](https://www.facebook.com/example.profile.3), [GitHub](https://github.com/melaeli/melaeli.github.io)
 
 ## Contact
 
@@ -16,12 +19,27 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 ## Courses I've Taken
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+[Command-Line Course](https://courses.helsinki.fi/fi/KIK-LG218/126710126), fall 2018, see more in [Command-Line Course](https://melaeli.github.io/cmdline_course.html)
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+[Building NLP Applications](https://courses.helsinki.fi/fi/kik-lg211/124794049), fall 2018
 
 ## Projects
 
+[Setting up a GitHub repo](https://github.com/melaeli/cmdline-course)
+
+In this project Ellu learned how to set up a repository in the GitHub and perform various tasks in the repo. It included:
+* creating a repo in GitHub, 
+* cloning it to my local computer,
+* adding content with git add, commit and push and
+* making changes to the source code.
+
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+[Motivation and thesis by PapersOwl](https://papersowl.com/blog/how-to-finish-my-thesis)
+
+[Thesis when short of time by Cheeky Scientist](https://cheekyscientist.com/insiders-guide-to-write-a-thesis-when-short-on-time/) 
+
+[Learn LaTeX by Overleaf](https://www.overleaf.com/)
+
+Let's make it better than this! :)
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/428-how-to-write-mathematical-research-paper.png" alt="Photo" hspace="25" width="50%" align="center"/>
