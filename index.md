@@ -9,13 +9,19 @@ Ellu is studying language technology at the Helsinki University and proud of it.
 
 The site also includes some tips for all of you in the same situation, good luck! :)
 
+([Picture](https://commons.wikimedia.org/wiki/File:Typeface-thesis.jpg): Thesis from Lucas de Groot by Roger Koslowski)
+
 ## Find me on
 
 [LinkedIn](https://www.linkedin.com), [Facebook](https://www.facebook.com/example.profile.3), [GitHub](https://github.com/melaeli/melaeli.github.io)
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+My email address is: ellu(at)ellu.fi
+
+## My CV
+
+[Ellu's CV](assets/documents/Ellu_s_CV.pdf)
 
 ## Courses I've Taken
 
@@ -43,3 +49,7 @@ In this project Ellu learned how to set up a repository in the GitHub and perfor
 
 Let's make it better than this! :)
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/428-how-to-write-mathematical-research-paper.png" alt="Photo" hspace="25" width="50%" align="center"/>
+
+([Picture](https://commons.wikimedia.org/wiki/File:428-how-to-write-mathematical-research-paper.png) by Muzamil Memon)
+
+([Template](https://github.com/mpsilfve/cayman) of this page from Miikka Silfverberg)
